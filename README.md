@@ -11,7 +11,7 @@ The data consists of 1000 individual claims. The most important variable of inte
 
 ✅ 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭:
 
-
 ▶️ Various factors like number of claims processed and the total amount approved across various states.
+
 ▶️ Count of incidents and impact of time, gender and vehicle age.
 
