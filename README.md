@@ -1,6 +1,11 @@
 # 📊 𝐏𝐨𝐰𝐞𝐫-𝐁𝐈 𝐈𝐧𝐬𝐮𝐫𝐚𝐧𝐜𝐞 𝐀𝐬𝐬𝐢𝐠𝐧𝐦𝐞𝐧𝐭 📈
 
 
+![image](https://github.com/user-attachments/assets/4b27b0d6-c1ec-4e17-8a42-97eb9725605c)
+![image](https://github.com/user-attachments/assets/ab0a7f7e-ac1e-44b8-a011-b06b0cf8e2f3)
+
+
+
 ✅ 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 An Insurance company wants to visualize the financial performance of claims made against the policies. The data given contains the information about claims processed in the month of January and February. The aim is to plot visualisations which will provide a quick overview of claims data to the leadership.
 
@@ -14,4 +19,5 @@ The data consists of 1000 individual claims. The most important variable of inte
 ▶️ Various factors like number of claims processed and the total amount approved across various states.
 
 ▶️ Count of incidents and impact of time, gender and vehicle age.
+
 
